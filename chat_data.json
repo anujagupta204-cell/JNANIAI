@@ -1,0 +1,18 @@
+[
+    {
+        "question": "How do I use this?",
+        "answer": "Simply type your message in the chat box. I use a local dataset to provide instant answers without needing an internet connection or API key."
+    },
+    {
+        "question": "What is Jnana AI?",
+        "answer": "Jnana AI is a premium offline chat application designed for speed, privacy, and beautiful user experience."
+    },
+    {
+        "question": "hello",
+        "answer": "Hello! I am Jnana, your offline AI assistant. I'm searching through my local knowledge base."
+    },
+    {
+        "question": "how are you",
+        "answer": "I'm functioning perfectly within my local environment!"
+    }
+]
